@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://raw.githubusercontent.com/haspolo/disneyIOStest/v1.0.3/PayecoDisneyDev2.ipa</string>
+		<string>https://raw.githubusercontent.com/haspolo/disneyIOStest/v1.0.4/PayecoDisneyDev2.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://raw.githubusercontent.com/haspolo/disneyIOStest/v1.0.3/payeco.png</string>
+		<string>https://raw.githubusercontent.com/haspolo/disneyIOStest/v1.0.4/payeco.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://raw.githubusercontent.com/haspolo/disneyIOStest/v1.0.3/payeco.png</string>
+		<string>https://raw.githubusercontent.com/haspolo/disneyIOStest/v1.0.4/payeco.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
